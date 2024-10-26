@@ -1,0 +1,12 @@
+Flask
+matplotlib
+sqlalchemy
+google-generativeai
+python-dotenv
+requests
+joblib
+nltk
+transformers
+sentence-transformers
+scikit-learn
+pandas

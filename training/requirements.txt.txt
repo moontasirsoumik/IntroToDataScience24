@@ -1,0 +1,12 @@
+torch
+imblearn
+scikit-learn
+joblib
+pandas
+numpy
+nltk
+spacy
+pytextrank
+matplotlib
+seaborn
+wordcloud
